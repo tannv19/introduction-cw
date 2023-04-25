@@ -4,7 +4,7 @@ Mobile application
 
 <p align="center">
     <img src="images/login.jpg" width="300">
-    <div width='20px'></div>
+    <div width='4px'></div>
     <img src="images/register.jpg" width="300">
 </p>
 <p align="center">
