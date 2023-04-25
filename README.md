@@ -2,7 +2,7 @@ Image for "Ứng dụng giao hàng tiện đường"
 
 Mobile application
 
-![CHEESE!](images/login.jpg)
+![CHEESE!](images/login.jpg?raw=true)
 ![CHEESE!](images/register.jpg)
 ![CHEESE!](images/create_package1.jpg)
 ![CHEESE!](images/create_package2.jpg)
