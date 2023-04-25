@@ -3,13 +3,20 @@ Image for "Ứng dụng giao hàng tiện đường"
 Mobile application
 
 <p align="center">
-  <img src="images/login.jpg" width="350">
-  <img src="images/register.jpg" width="350">
-    <img src="images/create_package1.jpg" width="350">
-    <img src="images/create_package2.jpg" width="350">
-    <img src="images/create_package3.jpg" width="350">
-    <img src="images/create_package4.jpg" width="350">
-    <img src="images/package_overview.jpg" width="350">
+    <img src="images/login.jpg" width="300">
+    <img src="images/register.jpg" width="300">
+</p>
+<p align="center">
+   <img src="images/create_package1.jpg" width="300">
+    <img src="images/create_package2.jpg" width="300">
+</p>
+<p align="center">
+    <img src="images/create_package3.jpg" width="300">
+    <img src="images/create_package4.jpg" width="300">
+</p>
+<p align="center">
+    <img src="images/package_overview.jpg" width="300">
+    <img src="images/suggest_package.jpg" width="300">
 </p>
 
 ![CHEESE!](images/login.jpg)
