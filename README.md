@@ -1,6 +1,8 @@
-Image for "Ứng dụng giao hàng tiện đường"
+# Ứng dụng giao hàng tiện đường
 
-Mobile application
+## Thank for visiting. This is some images about user interface of our application.
+
+### Mobile application (Flutter)
 
 <p align="center">
     <img src="images/login.jpg" width="300">
@@ -11,8 +13,8 @@ Mobile application
     <img src="images/create_package2.jpg" width="300">
 </p>
 <p align="center">
-    <img src="images/create_package3.jpg" width="300">
     <img src="images/create_package4.jpg" width="300">
+    <img src="images/create_package5.jpg" width="300">
 </p>
 <p align="center">
     <img src="images/package_overview.jpg" width="300">
@@ -43,14 +45,12 @@ Mobile application
     <img src="images/review.jpg" width="300">
 </p>
 <p align="center">
-    <img src="images/rating.jpg" width="300">
+        <img src="images/money.jpg" width="300">
     <img src="images/config_user.jpg" width="300">
 </p>
-<p align="center">
-    <img src="images/money.jpg" width="300">
-</p>
 
-Web application
+### Web application (ReactJS)
+
 ![CHEESE!](images/config_system.png)
 ![CHEESE!](images/create_package_fe.png)
 ![CHEESE!](images/create_route_fe.png)
