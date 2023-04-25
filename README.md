@@ -2,7 +2,12 @@ Image for "Ứng dụng giao hàng tiện đường"
 
 Mobile application
 
-![CHEESE!](images/login.jpg?raw=true)
+<p align="center">
+  <img src="images/login.jpg" width="350" title="hover text">
+  <img src="images/login.jpg" width="350" alt="accessibility text">
+</p>
+
+![CHEESE!](images/login.jpg)
 ![CHEESE!](images/register.jpg)
 ![CHEESE!](images/create_package1.jpg)
 ![CHEESE!](images/create_package2.jpg)
